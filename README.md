@@ -1,6 +1,7 @@
-# simple-quarkus Project
+# simple-quarkus
 
-Projeto simples em quarkus: https://quarkus.io/ .
+Projeto simples em quarkus com docker. 
+https://quarkus.io/
 
 ## Swagger
 
